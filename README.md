@@ -1,5 +1,4 @@
 algorithm-study
-코딩 테스트 문제 풀이 공간.
 
 repository 구조
 
